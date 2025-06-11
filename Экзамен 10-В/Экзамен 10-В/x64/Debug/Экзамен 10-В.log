@@ -1,0 +1,7 @@
+﻿  main.cpp
+  rpn.cpp
+  tokenizer.cpp
+  utils.cpp
+  Создание кода...
+  LINK : не найден или не выполнена сборка C:\Users\sereb\Desktop\c++\Экзамен 10-В\x64\Debug\Экзамен 10-В.exe при последней инкрементной компоновке; выполняется полная компоновка
+  Экзамен 10-В.vcxproj -> C:\Users\sereb\Desktop\c++\Экзамен 10-В\x64\Debug\Экзамен 10-В.exe
